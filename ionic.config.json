@@ -1,0 +1,7 @@
+{
+  "name": "bulario",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
